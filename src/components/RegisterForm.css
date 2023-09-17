@@ -1,0 +1,37 @@
+.main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+}
+
+form {
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 0 15px 15px rgba(21, 32, 24, 0.8);
+  margin: 200px;
+  padding: 50px;
+  color: white;
+  border-radius: 16px;
+}
+
+div {
+  margin: 15px;
+}
+
+input {
+  padding: 10px;
+  background-color: cadetblue;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 7px;
+  color: white;
+  background: cadetblue;
+  cursor: pointer;
+}
